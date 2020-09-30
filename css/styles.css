@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url();
+    background-size: none;    
+    background-position: center;
+}
+
+
+.sing-in-form {
+    width: 500px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: white;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: left;
+}
+
+/* just the header */
+.sing-in-form h1 {
+    color: black;
+    margin-bottom: 30px;
+}
+
+.signin-btn{
+    background-color:orange;
+    color: black;
+    width: 100%;
+    padding: 10px;
+    border-radius: 0px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    
+
+
+}
+
+/* Input boxes */
+.form-control{
+    border-radius: 0px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 95%;
+    border: 1px solid #999;
+    outline: none;
+
+}
+
+.new-to-amazon {
+    width: 500px;
+    background: white;
+    padding: 10px;
+    margin: 10px auto 0;
+    vertical-align: top;
+    text-align: center;
+    border-top: gray;
+
+
+}
+
+.new-to-amazon-btn {
+    background-color:rgb(190, 184, 184);
+    color: white;
+    width: 100%;
+    padding: 6px;
+    border-radius: 0px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+}
+
+.links {
+    width: 400px;
+    background: white;
+    padding: 5px;
+    margin: 15px auto 0;
+    text-align: center;
+    border-top: gray;
+    
+
+}
